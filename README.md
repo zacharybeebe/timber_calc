@@ -1,8 +1,8 @@
-# timber_calc
+# timberscale
 Python module for calculating Timber data from tree species of the west coast
 
 
-The 'Timber' class within timber_calc can be thought of as a single tree,
+The 'Timber' class within timberscale can be thought of as a single tree,
 the required inputs are Species (by Species Code), Diameter at Breast Height (DBH), and
 the Total Height of the tree.
 
@@ -116,7 +116,7 @@ The species available for calculation are below and must have the correct specie
 
 An example of how to get started is....
 
-	from timber_calc import Timber
+	from timberscale import Timber
 
 	spp = 'DF'		# Douglas Fir
 	dbh = 16.6		# inches
