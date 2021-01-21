@@ -1,4 +1,4 @@
 PyPI url for timberscale - https://pypi.org/project/timberscale/
 
 from command shell
-pip install timberscale==1.0
+pip install timberscale
