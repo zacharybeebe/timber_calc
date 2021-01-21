@@ -1,0 +1,4 @@
+PyPI url for timber-calc - https://pypi.org/project/timber-calc/
+
+from command shell
+pip install timber-calc==1.0
